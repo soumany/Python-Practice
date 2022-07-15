@@ -1,4 +1,4 @@
-number=int(123457)
+number=int(input("Enter the number"))
 reversed_number = 0   # because we start from 1
 while number !=0:
     x = number %10    # x is remainder
